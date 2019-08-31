@@ -4,7 +4,7 @@
 #
 Name     : mvn-geronimo-jcache_1.0_spec
 Version  : jcache.1.0.spec.1.0.alpha.1
-Release  : 3
+Release  : 4
 URL      : https://github.com/apache/geronimo-specs/archive/geronimo-jcache_1.0_spec-1.0-alpha-1.tar.gz
 Source0  : https://github.com/apache/geronimo-specs/archive/geronimo-jcache_1.0_spec-1.0-alpha-1.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jcache_1.0_spec/1.0-alpha-1/geronimo-jcache_1.0_spec-1.0-alpha-1.jar
